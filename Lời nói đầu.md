@@ -3,9 +3,9 @@ LỜI NÓI ĐẦU
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Theo yêu cầu của một số bạn đọc, chúng tôi, một nhóm giảng viên gồm những đồng nghiệp và học trò cũ của giáo sư Cao Xuân Hạo, đã sưu tập một số bài vở được đăng rải rác trên báo chí từ 1982 đến 2001, giúp ông chọn lọc, hiệu đính, biên tập, sắp xếp lại những bài ấy thành một tập tạp văn chia một cách ước định thành ba phần:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I. Tiếng Việt<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II. Văn Việt 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Người Việt và văn hoá Việt
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I. Tiếng Việt<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II. Văn Việt <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;III. Người Việt và văn hoá Việt</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tập sách này phản ánh những ý kiến của ông về một số vấn đề liên quan đến ngôn ngữ, văn học và văn hoá của dân tộc. Là một nhà Việt ngữ học lão thành, đương nhiên trung tâm chú ý của ông là những vấn đề của tiếng Việt, nhưng ngoài ra ông cũng quan tâm đến những vấn đề có liên quan xa gần với ngôn ngữ như văn học và văn hoá.
 
@@ -24,5 +24,6 @@ LỜI NÓI ĐẦU
 <p align="right"><em>Hoàng Dũng, Nguyễn Đức Dương,<br/>
 Bùi Mạnh Hùng, Nguyễn Thị Ly Kha, Hoàng Xuân Tâm</em></p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MDc5NDg1LDE1NzQzNjg2NzZdfQ==
+eyJoaXN0b3J5IjpbLTE4Mzk5Mzg1MTUsODI2MDc5NDg1LDE1Nz
+QzNjg2NzZdfQ==
 -->
